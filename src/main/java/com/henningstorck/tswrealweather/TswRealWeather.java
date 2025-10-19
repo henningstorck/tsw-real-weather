@@ -14,7 +14,7 @@ import java.time.Duration;
 import java.time.Instant;
 
 public class TswRealWeather {
-	public static final String VERSION = "v0.1.0-SNAPSHOT";
+	public static final String VERSION = "v0.1.0";
 	public static final Duration POLLING_RATE = Duration.ofSeconds(5);
 	public static final Duration WEATHER_UPDATE_RATE = Duration.ofMinutes(5);
 
